@@ -16,7 +16,7 @@
     "cluster": "^0.7.7",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.5.0",
-    "mocha": "^6.0.2",
+    "mocha": "^10.2.0",
     "mongoose": "^5.4.14",
     "multer": "^1.4.1",
     "ndb": "^1.0.43",
